@@ -4,9 +4,15 @@ body{
 }
 h1 {
     background: blue;
-    align-content: center;
+    text-align: center;
 }
+nav{
+    
+    background: whitesmoke;
+    list-style-type: none;
 
+
+}
 img {
     width: 30%;
     align-content: center;
