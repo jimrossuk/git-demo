@@ -9,11 +9,20 @@ h1 {
 nav{
     
     background: whitesmoke;
-    list-style-type: none;
 
+}
+ul{
+    display: flex;
+}
+li{
+    list-style: none;
+    display: inline;
+    margin: 1rem;
+    justify-content: end;
+   
 
 }
 img {
     width: 30%;
-    align-content: center;
+    
 }
