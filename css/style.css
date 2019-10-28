@@ -1,9 +1,13 @@
 /*a bit of css here*/
+body{
+    background: firebrick;
+}
 h1 {
-    background: red;
+    background: blue;
+    align-content: center;
 }
 
 img {
     width: 30%;
-
+    align-content: center;
 }
