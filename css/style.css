@@ -19,10 +19,12 @@ li{
     display: inline;
     margin: 1rem;
     align-items: flex-end;
-   
-
 }
+p{
+    color: whitesmoke;
+    background: black;
+}
+
 img {
     width: 30%;
-    
 }
